@@ -9,7 +9,7 @@
 
 .bi::before,
 [class^="bi-"]::before,
-[class*=" bi-"]::before {
+[class*=" fa fa-times"]::before {
   display: inline-block;
   font-family: bootstrap-icons !important;
   font-style: normal;
